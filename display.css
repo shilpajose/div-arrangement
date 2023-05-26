@@ -1,3 +1,6 @@
+*{
+    background-color: rgba(0, 0, 0, 0.423);
+}
 .row{
     height: 400px;
     /* background-color: bisque; */
